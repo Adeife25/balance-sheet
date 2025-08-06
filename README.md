@@ -28,5 +28,3 @@ Styling tables and text alignment with CSS
 
 🚀 Live Preview
  https://adeife25.github.io/balance-sheet/
-👉 Click here to view the live page
-(Replace with your actual link after hosting)
