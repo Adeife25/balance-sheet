@@ -1,6 +1,3 @@
-ChatGPT said:
-Great! Here's a simple and beginner-friendly README.md for your Balance Sheet project on GitHub:
-
 📊 Balance Sheet Project
 This is a basic responsive Balance Sheet webpage built as part of my frontend development learning journey.
 
@@ -30,5 +27,6 @@ Creating responsive layouts
 Styling tables and text alignment with CSS
 
 🚀 Live Preview
+ https://adeife25.github.io/balance-sheet/
 👉 Click here to view the live page
 (Replace with your actual link after hosting)
